@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a93335e6.css",
-    "main.js": "/static/js/main.745f1850.js",
+    "main.css": "/static/css/main.9c1ee177.css",
+    "main.js": "/static/js/main.68741ab3.js",
     "static/media/image.png": "/static/media/image.7c9de77ba66607112b06.png",
     "static/media/image-small.png": "/static/media/image-small.7506aff6ebe8497e8a18.png",
     "static/media/portfolio-6.png": "/static/media/portfolio-6.4a10fac7d271e87859e9.png",
@@ -10,17 +10,18 @@
     "static/media/portfolio-1.png": "/static/media/portfolio-1.b33adf772d54ab33e953.png",
     "static/media/portfolio-5.png": "/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
     "static/media/portfolio-3.png": "/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/facebook.png": "/static/media/facebook.81dd033a37c4860f7121.png",
-    "static/media/adobe.png": "/static/media/adobe.a08b8360ff7b700ed0c4.png",
-    "static/media/walmart.png": "/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/company-logo2.png": "/static/media/company-logo2.a1d6f88c9f18df1e7772.png",
+    "static/media/company-logo4.png": "/static/media/company-logo4.b16d9e7d30467c7a6feb.png",
+    "static/media/company-logo3.png": "/static/media/company-logo3.d63534fca6fa1be68c25.png",
+    "static/media/company-logo.png": "/static/media/company-logo.29ecd372ac75fd2a6f1e.png",
     "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
     "static/media/logo-black.png": "/static/media/logo-black.51fb1f7100332fbbdc67.png",
     "index.html": "/index.html",
-    "main.a93335e6.css.map": "/static/css/main.a93335e6.css.map",
-    "main.745f1850.js.map": "/static/js/main.745f1850.js.map"
+    "main.9c1ee177.css.map": "/static/css/main.9c1ee177.css.map",
+    "main.68741ab3.js.map": "/static/js/main.68741ab3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a93335e6.css",
-    "static/js/main.745f1850.js"
+    "static/css/main.9c1ee177.css",
+    "static/js/main.68741ab3.js"
   ]
 }
